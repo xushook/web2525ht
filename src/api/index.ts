@@ -4,6 +4,6 @@ export default {
         url: '/menu/list',
         method: 'GET',
         data: params,
-        mock: true
+        mock: false
     })
 }
